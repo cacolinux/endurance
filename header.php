@@ -17,7 +17,7 @@
         rel="stylesheet">
 
     <!-- Custom styles for this template-->
-    <link href="css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="css/sb-admin-2.css" rel="stylesheet">
 
 </head>
 
@@ -25,6 +25,6 @@
 
 <?php
 
-$fecha = date("d-M");
+$fecha = date("M");
 
 ?>

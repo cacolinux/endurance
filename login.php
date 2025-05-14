@@ -20,7 +20,7 @@
                             <div class="col-lg-12">
                                 <div class="p-5">
                                     <div class="text-center">
-                                        <h1 class="h4 text-gray-900 mb-4">Esto es Endurancelabs</h1>
+                                        <img src="img/logoblanco.png">
                                     </div>
                                     <form class="user">
                                         <div class="form-group">
@@ -39,9 +39,7 @@
 
                                     </form>
                                     <hr>
-                                    <div class="text-center">
-                                        <a class="small" href="forgot-password.php">Olvido su contraseña?</a>
-                                    </div>
+
 
                                 </div>
                             </div>
